@@ -1,0 +1,42 @@
+@charset "utf-8";
+.header_rule {
+    display: black;
+    width: 100%;
+    padding-top: 14px;
+    padding-left: 20px;
+    padding-right: 4px;
+    padding-bottom: 14px;
+}
+.navbar {
+    background-color: #2FA0A1;
+    width: 100%;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    display: black;
+    margin-top: 49px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    padding-top: 14px;
+    padding-left: 14px;
+    padding-bottom: 14px;
+    padding-right: 0px;
+}
+.wrapper {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h1 {
+    color: #0C1096;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+h2 {
+    color: #2B9A8A;
+}
+footer {
+    background-color: #378C99;
+    color: #F9F8F8;
+    text-align: center;
+    font-size: large;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 8px;
+}
